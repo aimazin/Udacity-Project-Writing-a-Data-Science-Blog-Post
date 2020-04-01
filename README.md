@@ -17,4 +17,4 @@ please feel free to contribute if anything is interesting.
 
 ## Licence
 
-I authrize any none malicous use of this code.
+I authrize any none malicious use of this code.
