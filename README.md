@@ -20,7 +20,7 @@ Using Kaggle's Airbnb dataset of Seattle location, to find what goes into, and h
 
 ## File Descriptions
 
-seattle(1).zip: containing all csv used in the project  
+seattle(1).zip: containing all csv used in the project, they contain structured data from the Kaggle website  
 
 seattle_anal.ipynb: containing python analysis of datasets
 
