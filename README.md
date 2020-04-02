@@ -1,24 +1,40 @@
 # Udacity-Project-Writing-a-Data-Science-Blog-Post
 
-First Project of Udacity's Data Science Nanodegree
-Using Kaggle's Airbnb dataset of Seattle location, to find what goes into, and how to build a pricing model, in which one could maximize ones price. For which a blog will be Posted.
+## Table of Contents
 
-my blog: https://medium.com/@aimazin/post-social-distancing-break-in-to-airbnb-business-seattle-7baa62ca4d76
+- seattle(1).zip
 
-my notebook: https://github.com/aimazin/Udacity-Project-Writing-a-Data-Science-Blog-Post/blob/master/seattle_anal.ipynb
+- seattle_anal.ipynb
 
-## Install
+
+## Installation
 
 install latest version of python version 3.8
 
-## Issue
 
-datasets not in allowable size for Github and will remain in seattle(1).zip untill the restriction is lifted. 
+## Project Motivation
 
-## Contributing
+First Project of Udacity's Data Science Nanodegree
+Using Kaggle's Airbnb dataset of Seattle location, to find what goes into, and how to build a pricing model, in which one could maximize ones price. For which a blog will be Posted.
 
-please feel free to contribute if anything is interesting.
+
+## File Descriptions
+
+seattle(1).zip: containing all csv used in the project  
+
+seattle_anal.ipynb: containing python analysis of datasets
+
+
+## Results
+
+my blog: https://medium.com/@aimazin/post-social-distancing-break-in-to-airbnb-business-seattle-7baa62ca4d76
+
+
+## Acknowledgements
+
+Udacity Team and the Kaggle Team for providing the dataset
+
 
 ## Licence
 
-I authrize any none malicious use of this code.
+I authorize any none malicious use of this code.
