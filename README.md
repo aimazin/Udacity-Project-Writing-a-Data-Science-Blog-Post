@@ -6,6 +6,8 @@
 
 - seattle_anal.ipynb
 
+- seattle_anal.html
+
 
 ## Installation
 
@@ -22,7 +24,9 @@ Using Kaggle's Airbnb dataset of Seattle location, to find what goes into, and h
 
 seattle(1).zip: containing all csv used in the project, they contain structured data from the Kaggle website  
 
-seattle_anal.ipynb: containing python analysis of datasets
+seattle_anal.ipynb: containing Jupyter notebook of python analysis of datasets
+
+seattle_anal.html: HTML version of the notebook
 
 
 ## Results
