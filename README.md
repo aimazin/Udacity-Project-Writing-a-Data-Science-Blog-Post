@@ -38,7 +38,7 @@ my blog: https://medium.com/@aimazin/post-social-distancing-break-in-to-airbnb-b
 
 Udacity Team and the Kaggle Team for providing the dataset
 
+## License
 
-## Licence
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
-I authorize any none malicious use of this code.
